@@ -1,0 +1,279 @@
+{
+    "overall_performance": {
+        "be": 0.72,
+        "fe": 1.67
+    },
+    "data": {
+        "https://www.facebook.com/": {
+            "performance": {
+                "be": 7.208,
+                "fe": 0.737
+            }
+        },
+        "https://www.facebook.com/#": {
+            "performance": {
+                "be": 0.378,
+                "fe": 0.723
+            }
+        },
+        "https://he-il.facebook.com/": {
+            "performance": {
+                "be": 0.406,
+                "fe": 0.816
+            }
+        },
+        "https://ru-ru.facebook.com/": {
+            "performance": {
+                "be": 0.418,
+                "fe": 0.844
+            }
+        },
+        "https://es-la.facebook.com/": {
+            "performance": {
+                "be": 0.41,
+                "fe": 0.885
+            }
+        },
+        "https://ar-ar.facebook.com/": {
+            "performance": {
+                "be": 0.365,
+                "fe": 0.804
+            }
+        },
+        "https://fr-fr.facebook.com/": {
+            "performance": {
+                "be": 0.532,
+                "fe": 0.776
+            }
+        },
+        "https://th-th.facebook.com/": {
+            "performance": {
+                "be": 0.427,
+                "fe": 0.951
+            }
+        },
+        "https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjY5NDgyNzgxLCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&ars=facebook_login": {
+            "performance": {
+                "be": 0.441,
+                "fe": 1.108
+            }
+        },
+        "https://www.facebook.com/pages/create/?ref_type=registration_form": {
+            "performance": {
+                "be": 0.397,
+                "fe": 1.933
+            }
+        },
+        "https://it-it.facebook.com/": {
+            "performance": {
+                "be": 0.413,
+                "fe": 0.712
+            }
+        },
+        "https://de-de.facebook.com/": {
+            "performance": {
+                "be": 0.454,
+                "fe": 0.732
+            }
+        },
+        "https://pt-br.facebook.com/": {
+            "performance": {
+                "be": 0.445,
+                "fe": 0.806
+            }
+        },
+        "https://hi-in.facebook.com/": {
+            "performance": {
+                "be": 0.407,
+                "fe": 0.805
+            }
+        },
+        "https://www.facebook.com/login/": {
+            "performance": {
+                "be": 0.415,
+                "fe": 0.9
+            }
+        },
+        "https://www.facebook.com/lite/": {
+            "performance": {
+                "be": 0.449,
+                "fe": 0.951
+            }
+        },
+        "https://www.facebook.com/reg/": {
+            "performance": {
+                "be": 0.442,
+                "fe": 1.027
+            }
+        },
+        "https://messenger.com/": {
+            "performance": {
+                "be": 0.758,
+                "fe": 1.332
+            }
+        },
+        "https://www.facebook.com/marketplace/": {
+            "performance": {
+                "be": 0.439,
+                "fe": 0.696
+            }
+        },
+        "https://www.facebook.com/games/": {
+            "performance": {
+                "be": 0.356,
+                "fe": 0.881
+            }
+        },
+        "https://www.facebook.com/places/": {
+            "performance": {
+                "be": 0.282,
+                "fe": 1.261
+            }
+        },
+        "https://pay.facebook.com/": {
+            "performance": {
+                "be": 0.698,
+                "fe": 1.587
+            }
+        },
+        "https://www.bulletin.com/": {
+            "performance": {
+                "be": 0.435,
+                "fe": 1.246
+            }
+        },
+        "https://www.oculus.com/": {
+            "performance": {
+                "be": 0.923,
+                "fe": 1.401
+            }
+        },
+        "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&h=AT09kF8-MdNUQ3jW6JnyQ40vP0WCp8vEXTwejXlpEDVD-Ynj__TleWM0lmQaCjc4uFij1LvcmvF6sEaP2t4ZulgE_N7_ULIjDYB1WCVEOA_EAmFaLQhZGF-7WNDhDD5uyEgK23hJrwDIOjYHemAbRQ": {
+            "performance": {
+                "be": 0.415,
+                "fe": 1.866
+            }
+        },
+        "https://portal.facebook.com/": {
+            "performance": {
+                "be": 0.986,
+                "fe": 2.793
+            }
+        },
+        "https://www.facebook.com/watch/": {
+            "performance": {
+                "be": 0.267,
+                "fe": 22.015
+            }
+        },
+        "https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D": {
+            "performance": {
+                "be": 0.321,
+                "fe": 0.946
+            }
+        },
+        "https://www.facebook.com/fundraisers/": {
+            "performance": {
+                "be": 0.993,
+                "fe": 1.052
+            }
+        },
+        "https://www.facebook.com/biz/directory/": {
+            "performance": {
+                "be": 0.707,
+                "fe": 1.573
+            }
+        },
+        "https://www.facebook.com/groups/explore/": {
+            "performance": {
+                "be": 0.32,
+                "fe": 0.945
+            }
+        },
+        "https://www.facebook.com/ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&nav_source=unknown&extra_1=auto": {
+            "performance": {
+                "be": 0.757,
+                "fe": 0.644
+            }
+        },
+        "https://www.facebook.com/pages/create/?ref_type=site_footer": {
+            "performance": {
+                "be": 0.408,
+                "fe": 1.305
+            }
+        },
+        "https://about.facebook.com/": {
+            "performance": {
+                "be": 1.03,
+                "fe": 1.482
+            }
+        },
+        "https://developers.facebook.com/?ref=pf": {
+            "performance": {
+                "be": 2.183,
+                "fe": 1.765
+            }
+        },
+        "https://www.facebook.com/policies/cookies/": {
+            "performance": {
+                "be": 0.339,
+                "fe": 0.984
+            }
+        },
+        "https://www.facebook.com/privacy/center/?entry_point=facebook_page_footer": {
+            "performance": {
+                "be": 0.312,
+                "fe": 1.229
+            }
+        },
+        "https://www.facebook.com/careers/?ref=pf": {
+            "performance": {
+                "be": 2.9,
+                "fe": 2.623
+            }
+        },
+        "https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer": {
+            "performance": {
+                "be": 0.282,
+                "fe": 3.352
+            }
+        },
+        "https://www.facebook.com/help/?ref=pf": {
+            "performance": {
+                "be": 0.313,
+                "fe": 1.242
+            }
+        },
+        "https://www.facebook.com/help/637205020878504": {
+            "performance": {
+                "be": 0.323,
+                "fe": 1.309
+            }
+        },
+        "https://www.facebook.com/policies?ref=pf": {
+            "performance": {
+                "be": 0.5,
+                "fe": 1.266
+            }
+        },
+        "https://www.facebook.com/help/568137493302217": {
+            "performance": {
+                "be": 0.329,
+                "fe": 1.36
+            }
+        },
+        "https://www.facebook.com/settings": {
+            "performance": {
+                "be": 0.369,
+                "fe": 0.687
+            }
+        },
+        "https://www.facebook.com/allactivity?privacy_source=activity_log_top_menu": {
+            "performance": {
+                "be": 0.301,
+                "fe": 0.756
+            }
+        }
+    },
+    "date_time": "26/11/2022 19:14:12"
+}
